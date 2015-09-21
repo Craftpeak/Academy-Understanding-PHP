@@ -2,7 +2,7 @@
 
 This class aims to help new coders understand some of the most important concepts to keep in mind when working with PHP. 
 
-Throughout this course we will build a simple PHP powered website.
+We'll learn about some fundamentals to programming, multiple PHP syntax, and examine some simple projects.
 
 Sections: 
 
