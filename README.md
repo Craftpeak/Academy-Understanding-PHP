@@ -6,16 +6,17 @@ Throughout this course we will build a simple PHP powered website.
 
 Sections: 
 
-1. [Introduction](Introduction.md)
-2. [Writing PHP](Writing-PHP.md)
-3. [Strings](Strings.md)
+1. [Introduction](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Introduction)
+1. [Writing PHP](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Writing-PHP)
+1. [Debugging](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Debugging)
+1. [Strings](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Strings)
 	* [Game of Strings: Paper, Rock, Scissors](game-strings/index.php) 
-4. [Arrays](Arrays.md)
+1. [Arrays](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Arrays)
 	* [Game of Arrays: Player vs Theme Fight!](game-arrays/index.php) 
-5. [System variables and Magic constants](System-Magic.md)
-6. [Functions](Functions.md)
+1. [System variables and Magic constants](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/System-Magic)
+1. [Functions](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Functions)
     * [Project Contact Form](project-contact-form)
-7. [Variable Scope](Scope.md)
+1. [Variable Scope](https://github.com/daggerhart/Academy-Understanding-PHP/wiki/Scope)
 
 TODO:
 * Variable Handling Functions
@@ -31,9 +32,3 @@ TODO:
 	* (array)
 	* (object)
 * Variables by reference
-* Objects
-    * Object notation
-    * Properties
-    * Methods
-    * PHP Functions
-	    * is_a() 
