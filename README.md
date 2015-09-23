@@ -7,8 +7,8 @@ We'll learn about some fundamentals to programming, multiple PHP syntax, and exa
 Sections: 
 
 1. [Reading & Writing PHP](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Writing-PHP)
-1. [Introduction to PHP Variables](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Introduction:-Variables)
-1. [Introduction to PHP Control Structures](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Introduction:-Control-Structures)
+1. [Introduction to PHP Variables](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Introduction-Variables)
+1. [Introduction to PHP Control Structures](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Introduction-Control-Structures)
 1. [Debugging & PHP Settings](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Debugging)
 1. [Strings](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Strings)
 1. [Arrays](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Arrays)
@@ -27,8 +27,8 @@ Sections:
 
 ### Extras
 
-* [Alternate PHP Syntax](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Extra:-Alternate-PHP-Syntax)
-* [More Function Types](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Extra:-More-Function-Types)
+* [Alternate PHP Syntax](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Extra-Alternate-PHP-Syntax)
+* [More Function Types](https://github.com/Craftpeak/Academy-Understanding-PHP/wiki/Extra-More-Function-Types)
 
 ### Resources
 
