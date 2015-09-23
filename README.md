@@ -19,7 +19,8 @@ Sections:
 ### Projects 
 
 * [Game of Strings: Paper, Rock, Scissors](game-strings/index.php) 
-* [Game of Arrays: Player vs Theme Fight!](game-arrays/index.php) 
+* [Game of Arrays: Player vs Theme Fight!](game-arrays/index.php)  
+* [Game of Arrays2: Goblin Assault!](game-arrays2/index.php) 
 * [Project Contact Form](project-contact-form)
 * [Simple Website](website-simple)
 * [Router Website](website-router)
