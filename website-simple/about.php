@@ -2,8 +2,10 @@
 // set the page_title in the global scope
 $page_title = "About Me";
 
-include_once __DIR__ . "/header.php";
+// include our template functions
+include_once __DIR__ . '/includes/functions.php';
 
+get_header();
 ?>
 <!-- main content -->
 <div class="col-sm-9">
@@ -19,5 +21,5 @@ include_once __DIR__ . "/header.php";
 </div>
 <?php
 
-include_once __DIR__ . "/sidebar.php";
-include_once __DIR__ . "/footer.php";
+get_sidebar();
+get_footer();
